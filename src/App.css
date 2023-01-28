@@ -1,0 +1,24 @@
+.byhoc{
+  /* display: inline; */
+  width: 300px;
+  height: 300px;
+ background-color: aqua;
+  border: 1px solid black;
+color: red;
+}
+.byPure{
+  /* display: inline; */
+  width: 300px;
+  height: 300px;
+ background-color: aqua;
+  border: 1px solid black;
+  color: red;
+}
+body{
+  text-align: center;
+}
+.Parent{
+  display: flex;
+  justify-content:space-around;
+  /* flex-direction: column; */
+}
